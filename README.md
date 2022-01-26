@@ -7,5 +7,5 @@
 ## Description
 This is a simple analogue clock designed using HTML, CSS and Javascript.
 
-
-It can be viewed on: https://osalumense.github.io/Analogue-Clock/
+## Demo
+The live demo can be viewed [here](https://analogue-clock-nu.vercel.app/)
